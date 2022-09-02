@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Bem vindo ao site de um dos maiores grupos de estudos do Brasil!
+# Em manutenção
 
 You can use the [editor on GitHub](https://github.com/ge-ci/ge-ci.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
