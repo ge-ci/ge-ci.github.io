@@ -1,0 +1,10 @@
+.btn {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13;
+    width: 165px;
+    height: 35px;
+    background-color: #fbff05;
+    padding: 9px 50px;
+    border: none;
+    color: rgb(0, 0, 0);
+  }
